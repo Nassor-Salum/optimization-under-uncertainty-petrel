@@ -36,7 +36,7 @@ This project focuses on optimizing reservoir production under uncertainty, condu
 ---
 
 ### 🖼️ Screenshot:  
-![Plots]([images/sensitivity-plot.png](https://github.com/Nassor-Salum/optimization-under-uncertainty-petrel/blob/main/image%20(1).png))
+![Sensitivity Plot]([images/sensitivity-plot.png](https://github.com/Nassor-Salum/optimization-under-uncertainty-petrel/blob/main/image%20(1).png))
 
 ---
 
