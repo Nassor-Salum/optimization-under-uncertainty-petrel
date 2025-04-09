@@ -38,7 +38,7 @@ This project focuses on optimizing reservoir production under uncertainty, condu
 ### 🖼️ Screenshots
 Here are a few visual outputs from the project:
 
-![Simulation Graph]([images/production-simulation-graph.png](https://github.com/Nassor-Salum/optimization-under-uncertainty-petrel/blob/main/image%20(1).png))  
+![Simulation Graph](image (1).png)  
 *Production performance comparison for various scenarios.*
 
 ---
