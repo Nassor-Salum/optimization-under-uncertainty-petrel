@@ -35,9 +35,8 @@ This project focuses on optimizing reservoir production under uncertainty, condu
 
 ---
 
-### 🖼️ Screenshots
-(Add relevant screenshots here using the following syntax:  
-`![Description](images/your-screenshot.png)`)
+### 🖼️ Screenshot:  
+`[![Description](images/your-screenshot.png)](https://github.com/Nassor-Salum/optimization-under-uncertainty-petrel/blob/main/image%20(1).png)`)
 
 ---
 
