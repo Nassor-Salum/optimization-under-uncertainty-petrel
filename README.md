@@ -41,5 +41,8 @@ Here are a few visual outputs from the project:
 ![Petrel Screenshot](https://github.com/Nassor-Salum/optimization-under-uncertainty-petrel/blob/main/image%20(1).png?raw=true)
 *Production performance comparison for various scenarios.*
 
+### Auther 
+ Nassor Salum
+
 ---
 
